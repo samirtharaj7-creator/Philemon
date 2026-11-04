@@ -1,0 +1,52 @@
+{
+  "key": "philemon",
+  "title": "Philemon Study",
+  "domain": "philemon.mybibleexplorer.com",
+  "totalVerses": 25,
+  "totalChapters": 1,
+  "books": [
+    {
+      "slug": "philemon",
+      "name": "Philemon",
+      "verseCounts": [
+        25
+      ]
+    }
+  ],
+  "backgroundSections": [
+    [
+      "pauline-authorship",
+      "Pauline Authorship"
+    ],
+    [
+      "pauls-imprisonment",
+      "Paul's Imprisonment"
+    ],
+    [
+      "colossae-and-the-lycus-valley",
+      "Colossae and the Lycus Valley"
+    ],
+    [
+      "philemon-and-his-household",
+      "Philemon and His Household"
+    ],
+    [
+      "onesimus",
+      "Onesimus"
+    ],
+    [
+      "slavery-in-the-roman-world",
+      "Slavery in the Roman World"
+    ],
+    [
+      "why-paul-wrote",
+      "Why Paul Wrote"
+    ],
+    [
+      "the-letter-at-a-glance",
+      "The Letter at a Glance"
+    ]
+  ],
+  "timelineSection": "pauls-imprisonment",
+  "finalSection": "the-letter-at-a-glance"
+}
